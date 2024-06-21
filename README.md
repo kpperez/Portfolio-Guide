@@ -44,5 +44,5 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data a
 | :weight_lifting_man: [Workout Webscraper](https://github.com/kpperez/Workout-Webscraper/blob/main/Workout_Webscraper.ipynb) | Python | In this project I scraped exercise data from a website to create a workout database for my Fittbook Web Application. Using Selenium Webdriver I was able to avoid pop-up advertisements and scroll through hundreds of pages to get over 1000 different workouts. |
 | :house_with_garden:[Zillow](https://github.com/kpperez/Zillow-Web-Scraper/blob/main/zillow_scraper.ipynb)  | Python | This project employs web scraping techniques, utilizing Selenium WebDriver, to gather comprehensive real estate data from Zillow. With a disguised user agent and dynamic page loading addressed, we extract key information. The harvested data is organized into a structured data frame and is saved as a CSV file for convenient storage and future reference in the home-buying process. | 
 
-
+***
 
