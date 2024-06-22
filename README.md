@@ -5,7 +5,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data a
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
 - [Software Engineering](#software-engineering)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Exploratory Data Analysis & Machine Learning](#exploratory-data-analysis--machine-learning)
 - [Web Scraping](#web-scraping)
 
 # Data Engineering 
@@ -25,7 +25,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data a
 
 ***
 
-# Exploratory Data Analysis
+# Exploratory Data Analysis & Machine Learning
 
 | Project Link | Tools | Description | 
 | --- | --- | --- | 
